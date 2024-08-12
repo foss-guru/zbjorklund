@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation development.
 - 🌱 I’m currently learning web automation with Selenium and Windows/Linux sysadmin.
 - 💞️ I’m looking to collaborate on AHK scripts, PowerShell, and maybe some Unity.
-- 📫 How to reach me: GitHub, Facebook, LinkedIn, email: zbengineering@protonmail.com
+- 📫 How to reach me: GitHub, Facebook, LinkedIn, email: zach@adminstarbase.com
 
 <!---
 zbjorklund/zbjorklund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
